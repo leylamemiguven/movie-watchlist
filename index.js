@@ -8,7 +8,7 @@ const start = document.getElementById("start-exploring")
 
 document.addEventListener("submit", function(){
     start.innerHTML = ""
-    fetch(`http://www.omdbapi.com/?&apikey=9d1b3c0c&s=${searchValue.value}`)
+    fetch(`https://www.omdbapi.com/?&apikey=9d1b3c0c&s=${searchValue.value}`)
         .then((response)=>response.json())
         .then((data)=>{
 
@@ -29,7 +29,7 @@ myWatchlistBtn.addEventListener("click", function(){
 function getMovies(movieList){
     start.style.margin = `2em`
     for (let movie in movieList){
-        fetch(`http://www.omdbapi.com/?&apikey=9d1b3c0c&i=${movieList[movie].imdbID}`)
+        fetch(`https://www.omdbapi.com/?&apikey=9d1b3c0c&i=${movieList[movie].imdbID}`)
         .then((response)=>response.json())
         .then((data)=> {
 
