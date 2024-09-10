@@ -4,9 +4,11 @@ An imdb like movie searching app that allows users to search for a movie and add
 ## Getting Started
 To start the project, navigate to the root directory in your terminal and run the following commands:
 
-`$npm init
-$npm start
-`
+```bash
+npm init
+npm start
+```
+
 
 ## Application Overview
 
