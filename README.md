@@ -15,20 +15,25 @@ npm start
 Initial View
 
 This screen shows the search bar where the users can search for a movie and where they can access their watchlist.
-![Screen Shot 2023-04-24 at 1 12 20 PM](https://user-images.githubusercontent.com/55370017/234070536-60f0c824-18df-4381-a233-ce80407708f1.png)
+
+![Screen Shot 2024-09-10 at 1 33 12 PM](https://github.com/user-attachments/assets/5b5ac937-73a0-427f-b477-a5200b65362c)
+
 
 
 Searching Movies
 
 When the user has searched for a movie they will get relevant information in a list and will have the option of adding the movies into their watchlist.
-![Screen Shot 2023-04-24 at 1 13 08 PM](https://user-images.githubusercontent.com/55370017/234070632-da95cb07-c6ae-404f-b681-55bc9f283921.png)
 
+![Screen Shot 2024-09-10 at 1 34 05 PM](https://github.com/user-attachments/assets/161a94d9-9395-4b8a-ba08-93a02f95abad)
 
 
 The User Watchlist
 
 Within the user watchlist, the users will be able to edit and remove the movies they've already seen from their watchlist. There will be a prompt asking the user if they want to remove a certain movie from their watchlist. 
-![Screen Shot 2024-09-10 at 1 29 47 PM](https://github.com/user-attachments/assets/e764d272-f864-450e-beb1-8282c19a4b2a)
+
+![Screen Shot 2024-09-10 at 1 34 24 PM](https://github.com/user-attachments/assets/e503d37e-fc84-4498-9f23-b0bae66fdf35)
+
+
 
 
 
