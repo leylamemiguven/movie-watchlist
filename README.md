@@ -31,9 +31,9 @@ The User Watchlist
 
 Within the user watchlist, the users will be able to edit and remove the movies they've already seen from their watchlist. There will be a prompt asking the user if they want to remove a certain movie from their watchlist. 
 
-![Screen Shot 2024-09-10 at 1 34 24 PM](https://github.com/user-attachments/assets/e503d37e-fc84-4498-9f23-b0ba![Screen Shot 2024-09-10 at 1 34 32 PM](https://github.com/user-attachments/assets/9a77e5c5-3b65-451d-a6d9-fb2ca45af1c1)
-e66fdf35)
-![Uploading Screen Shot 2024-09-10 at 1.34.32 PM.png…]()
+![Screen Shot 2024-09-10 at 1 34 32 PM](https://github.com/user-attachments/assets/107b9337-842b-49a1-b756-6767b12b331f)
+
+
 
 
 
