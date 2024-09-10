@@ -1,14 +1,14 @@
-#movie-watchlist
+# movie-watchlist
 An imdb like movie searching app that allows users to search for a movie and add it to their personal watchlist. The movies are retruieved using https://www.omdbapi.com/. You can check out the application at : [https://leylas-diner-ordering-app.netlify.app/](https://omdbapi-movie-watchlist.netlify.app/)
 
-##Getting Started
+## Getting Started
 To start the project, navigate to the root directory in your terminal and run the following commands:
 
 `$npm init
 $npm start
 `
 
-##Application Overview
+## Application Overview
 
 Initial View
 
