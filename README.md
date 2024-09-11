@@ -33,6 +33,8 @@ Within the user watchlist, the users will be able to edit and remove the movies 
 
 ![Screen Shot 2024-09-10 at 1 34 32 PM](https://github.com/user-attachments/assets/107b9337-842b-49a1-b756-6767b12b331f)
 
+Feel free to enhance or customize this project as needed!
+
 
 
 
